@@ -11,6 +11,6 @@ Module Variables
         Console.WriteLine("Escriba su fecha de Nacimiento (DD/MM/AAAA)")
         FechaNacimiento = Console.ReadLine()
 
-        Console.WriteLine(Nombre & " " & Apellido & " " & FechaNacimiento)
+        Console.WriteLine(Nombre & ", " & Apellido & ". Nacido el dia: " & FechaNacimiento)
     End Sub
 End Module

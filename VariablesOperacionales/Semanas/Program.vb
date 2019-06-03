@@ -1,9 +1,9 @@
 
 Module Semanas
     Sub Main()
-        Dim diasPorSemana As Double = 7
-        Dim horasPorDia As Int16 = 24
-        Dim minutosPorHora As Int16 = 60
+        Const diasPorSemana As Double = 7
+        Const horasPorDia As Int16 = 24
+        Const minutosPorHora As Int16 = 60
         Dim numeroDias As Double
         Dim semanas As Double
         Dim horas As Int16

@@ -33,9 +33,13 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.14 Cadenas1", "1.14 Caden
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.15 Refrase", "1.15 Refrase\1.15 Refrase.vbproj", "{F406E46F-ED5D-4FA8-BAC0-8E0A7EB21F55}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.16 Reloj", "Reloj\1.16 Reloj.vbproj", "{15525B85-E585-4806-B1B6-125EE9C85B7E}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.16 Reloj", "Reloj\1.16 Reloj.vbproj", "{15525B85-E585-4806-B1B6-125EE9C85B7E}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.17 Ajustar Reloj", "1.17 Ajustar Reloj\1.17 Ajustar Reloj.vbproj", "{659EC5CD-A394-46D8-BF84-C8E53A823309}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.17 Ajustar Reloj", "1.17 Ajustar Reloj\1.17 Ajustar Reloj.vbproj", "{659EC5CD-A394-46D8-BF84-C8E53A823309}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.18 Nueva_Fecha", "1.18 Nueva_Fecha\1.18 Nueva_Fecha.vbproj", "{24188240-48F2-4C15-89BA-986FF218CC61}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.19 dias", "1.19 dias\1.19 dias.vbproj", "{30E37761-A6F6-4B55-B377-145D3554E35C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +115,14 @@ Global
 		{659EC5CD-A394-46D8-BF84-C8E53A823309}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{659EC5CD-A394-46D8-BF84-C8E53A823309}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{659EC5CD-A394-46D8-BF84-C8E53A823309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24188240-48F2-4C15-89BA-986FF218CC61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24188240-48F2-4C15-89BA-986FF218CC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24188240-48F2-4C15-89BA-986FF218CC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24188240-48F2-4C15-89BA-986FF218CC61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30E37761-A6F6-4B55-B377-145D3554E35C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E37761-A6F6-4B55-B377-145D3554E35C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E37761-A6F6-4B55-B377-145D3554E35C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E37761-A6F6-4B55-B377-145D3554E35C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
